@@ -1,0 +1,19 @@
+{
+  "name": "interfaces-in-ts",
+  "version": "1.0.0",
+  "description": "Testing interfaces",
+  "main": "server.ts",
+  "scripts": {
+    "start": "nodemon --exec ts-node server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Kahwati",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {
+    "ts-node": "^8.9.1",
+    "typescript": "^3.8.3"
+  }
+}
